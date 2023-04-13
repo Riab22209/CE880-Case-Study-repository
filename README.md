@@ -1,6 +1,6 @@
 # CE880-Case-Study-repository
 
-The Data folder in the repository contains the file Data_shipping.xlsx whihch contains the dataset used for the case study.The file needs to downloaded and saved in the system.
+The Data folder in the repository contains the file Data_shipping.xlsx which contains the dataset used for the case study.The file needs to downloaded and saved in the system.
 The file CaseStudy_EDAandClassification.ipynb contains the code for the case study.The data description of the dataset has been provided.
 In this file first the Data_shipping.xlsx has been uploaded from the system using the upload widget.
 Then the data shape and details are checked.The dataset has been checked for null values before starting the data analysis.
